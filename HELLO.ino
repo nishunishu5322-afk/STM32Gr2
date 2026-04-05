@@ -9,7 +9,7 @@
 
 // Motor driver pins
 #define IN1 PB10
-#define IN2 PB11
+#define IN2 PB11 i love youuuuuuuuuuuuu
 
 DHT dht(DHTPIN, DHTTYPE);
 
